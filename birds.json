@@ -1,0 +1,977 @@
+[
+  {
+    "name": "Indian Peafowl",
+    "sciName": "Pavo cristatus",
+    "family": "Phasianidae",
+    "region": "Indian Subcontinent",
+    "blurb": "National bird of India. Iridescent blue and green with a famous train of eye-spotted feathers.",
+    "sound": {
+      "url": "/sounds/indian-peafowl.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Uku Paal",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1096596"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Peacock_on_tree_%2852077240794%29.jpg/960px-Peacock_on_tree_%2852077240794%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Indian_peafowl"
+    }
+  },
+  {
+    "name": "Indian Roller",
+    "sciName": "Coracias benghalensis",
+    "family": "Coraciidae",
+    "region": "South Asia",
+    "blurb": "Cinnamon and turquoise. Known for its aerial courtship rolls.",
+    "sound": {
+      "url": "/sounds/indian-roller.mp3",
+      "type": "song, displaying",
+      "quality": "A",
+      "recordist": "David Darrell-Lambert",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1103786"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Indian_roller_-_Timbi_Lake%2C_Vadodara_2023-12-03.jpg/960px-Indian_roller_-_Timbi_Lake%2C_Vadodara_2023-12-03.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Indian_roller"
+    }
+  },
+  {
+    "name": "Asian Koel",
+    "sciName": "Eudynamys scolopaceus",
+    "family": "Cuculidae",
+    "region": "South & SE Asia",
+    "blurb": "A cuckoo whose insistent kuoo-kuoo announces the Indian summer.",
+    "sound": {
+      "url": "/sounds/asian-koel.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "wu555",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1135257"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Asian_koel.jpg/960px-Asian_koel.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Asian_koel"
+    }
+  },
+  {
+    "name": "White-throated Kingfisher",
+    "sciName": "Halcyon smyrnensis",
+    "family": "Alcedinidae",
+    "region": "Asia",
+    "blurb": "Chestnut body, turquoise wings, a coral-red dagger of a bill.",
+    "sound": {
+      "url": "/sounds/white-throated-kingfisher.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Ding Li Yong",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/1100474"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/960px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/White-throated_kingfisher"
+    }
+  },
+  {
+    "name": "Brahminy Kite",
+    "sciName": "Haliastur indus",
+    "family": "Accipitridae",
+    "region": "South Asia & Australia",
+    "blurb": "White-headed raptor of coasts and rivers, sacred in many cultures.",
+    "sound": {
+      "url": "/sounds/brahminy-kite.mp3",
+      "type": "call, song",
+      "quality": "A",
+      "recordist": "Sreekumar Chirukandoth",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/663577"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haliastur_indus_136698204.jpg/960px-Haliastur_indus_136698204.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Brahminy_kite"
+    }
+  },
+  {
+    "name": "Sarus Crane",
+    "sciName": "Antigone antigone",
+    "family": "Gruidae",
+    "region": "Indian Subcontinent",
+    "blurb": "Tallest flying bird on earth. Mates for life with trumpeting duets.",
+    "sound": {
+      "url": "/sounds/sarus-crane.mp3",
+      "type": "duet, song",
+      "quality": "A",
+      "recordist": "Joost van Bruggen",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/991179"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sarus_crane_%28Grus_antigone%29.jpg/960px-Sarus_crane_%28Grus_antigone%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Sarus_crane"
+    }
+  },
+  {
+    "name": "Eurasian Hoopoe",
+    "sciName": "Upupa epops",
+    "family": "Upupidae",
+    "region": "Eurasia & Africa",
+    "blurb": "A crown of cinnamon feathers, a soft hoo-hoo-hoo through orchards.",
+    "sound": {
+      "url": "/sounds/eurasian-hoopoe.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Esperanza Poveda",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1154986"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Israel._Eurasian_Hoopoe_%286497645007%29.jpg/960px-Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_hoopoe"
+    }
+  },
+  {
+    "name": "Common Tailorbird",
+    "sciName": "Orthotomus sutorius",
+    "family": "Cisticolidae",
+    "region": "South Asia",
+    "blurb": "Stitches leaves together with plant fibre to cradle its nest.",
+    "sound": {
+      "url": "/sounds/common-tailorbird.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Scott Olmstead",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1105187"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Common_tailorbird_%28Orthotomus_sutorius_guzuratus%29_male_Kerala.jpg/960px-Common_tailorbird_%28Orthotomus_sutorius_guzuratus%29_male_Kerala.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Common_tailorbird"
+    }
+  },
+  {
+    "name": "Indian Pitta",
+    "sciName": "Pitta brachyura",
+    "family": "Pittidae",
+    "region": "Indian Subcontinent",
+    "blurb": "Nine colours on a small frame. Shy, monsoon-loving forest jewel.",
+    "sound": {
+      "url": "/sounds/indian-pitta.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Suniti Bhushan Datta",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/882041"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Indian_pitta_%28Pitta_brachyura%29_Photograph_by_Shantanu_Kuveskar.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Indian_pitta"
+    }
+  },
+  {
+    "name": "Crested Serpent Eagle",
+    "sciName": "Spilornis cheela",
+    "family": "Accipitridae",
+    "region": "Asia",
+    "blurb": "Hunts snakes from forest perches with a piercing whistle.",
+    "sound": {
+      "url": "/sounds/crested-serpent-eagle.mp3",
+      "type": "call, song",
+      "quality": "A",
+      "recordist": "Ding Li Yong",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/1077527"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Spilornis_cheela_%28Bandipur%2C_2008%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Crested_serpent_eagle"
+    }
+  },
+  {
+    "name": "European Robin",
+    "sciName": "Erithacus rubecula",
+    "family": "Muscicapidae",
+    "region": "Europe",
+    "blurb": "A small bird with a warm red breast and a clear, melancholy song.",
+    "sound": {
+      "url": "/sounds/european-robin.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Walter Wallner",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1153789"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Erithacus_rubecula_with_cocked_head.jpg/960px-Erithacus_rubecula_with_cocked_head.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/European_robin"
+    }
+  },
+  {
+    "name": "Common Blackbird",
+    "sciName": "Turdus merula",
+    "family": "Turdidae",
+    "region": "Europe & N Africa",
+    "blurb": "Velvet black male, golden bill. The fluted dusk-song of European gardens.",
+    "sound": {
+      "url": "/sounds/common-blackbird.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Radek Grochowski",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1156705"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Common_Blackbird.jpg/960px-Common_Blackbird.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Common_blackbird",
+      "position": "10% 50%"
+    }
+  },
+  {
+    "name": "Eurasian Blue Tit",
+    "sciName": "Cyanistes caeruleus",
+    "family": "Paridae",
+    "region": "Europe",
+    "blurb": "Tiny acrobat in blue, yellow and white. A familiar feeder visitor.",
+    "sound": {
+      "url": "/sounds/eurasian-blue-tit.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Sunny Tseng",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1152303"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eurasian_blue_tit_%28Cyanistes_caeruleus_caeruleus%29_Biebrzanski.jpg/960px-Eurasian_blue_tit_%28Cyanistes_caeruleus_caeruleus%29_Biebrzanski.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_blue_tit"
+    }
+  },
+  {
+    "name": "Common Chaffinch",
+    "sciName": "Fringilla coelebs",
+    "family": "Fringillidae",
+    "region": "Europe",
+    "blurb": "Pink-breasted finch whose song descends in cheerful cascades.",
+    "sound": {
+      "url": "/sounds/common-chaffinch.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Filippo Ceccolini",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1156208"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Male_Chaffinch_-_Fringilla_coelebs.jpg/960px-Male_Chaffinch_-_Fringilla_coelebs.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_chaffinch"
+    }
+  },
+  {
+    "name": "Common Cuckoo",
+    "sciName": "Cuculus canorus",
+    "family": "Cuculidae",
+    "region": "Eurasia",
+    "blurb": "Brood parasite whose two-note call names every clock in the world.",
+    "sound": {
+      "url": "/sounds/common-cuckoo.mp3",
+      "type": "song, excitement call",
+      "quality": "A",
+      "recordist": "Aku Kalliomäki",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1151786"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cuckoo_%2851169010335%29.jpg/960px-Cuckoo_%2851169010335%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Common_cuckoo"
+    }
+  },
+  {
+    "name": "White Stork",
+    "sciName": "Ciconia ciconia",
+    "family": "Ciconiidae",
+    "region": "Europe & Africa",
+    "blurb": "Long red legs, rooftop nests, the silent bill-clatter of summer.",
+    "sound": {
+      "url": "/sounds/white-stork.mp3",
+      "type": "call, song",
+      "quality": "A",
+      "recordist": "Petter Westberg",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1103936"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg/960px-White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/White_stork"
+    }
+  },
+  {
+    "name": "Eurasian Magpie",
+    "sciName": "Pica pica",
+    "family": "Corvidae",
+    "region": "Eurasia",
+    "blurb": "Black, white and iridescent blue. One of the most intelligent animals.",
+    "sound": {
+      "url": "/sounds/eurasian-magpie.mp3",
+      "type": "call, song, subsong",
+      "quality": "A",
+      "recordist": "Philippe_Grange",
+      "license": "CC (see recording page)",
+      "sourcePage": "https://xeno-canto.org/1148526"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eurasian_magpie_2024_03_03_02.jpg/960px-Eurasian_magpie_2024_03_03_02.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_magpie",
+      "position": "15% 50%"
+    }
+  },
+  {
+    "name": "Common Nightingale",
+    "sciName": "Luscinia megarhynchos",
+    "family": "Muscicapidae",
+    "region": "Europe & W Asia",
+    "blurb": "Plain brown bird, voice of legend. Sings through European nights.",
+    "sound": {
+      "url": "/sounds/common-nightingale.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "SWIFT Olivier",
+      "license": "CC BY-NC 4.0",
+      "sourcePage": "https://xeno-canto.org/1156443"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Luscinia_megarhynchos_-_Common_nightingale_-_Nachtegaal_%28cropped%29.jpg/960px-Luscinia_megarhynchos_-_Common_nightingale_-_Nachtegaal_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Common_nightingale"
+    }
+  },
+  {
+    "name": "Northern Cardinal",
+    "sciName": "Cardinalis cardinalis",
+    "family": "Cardinalidae",
+    "region": "North America",
+    "blurb": "A pure scarlet bird with a black mask and a rising, whistled song.",
+    "sound": {
+      "url": "/sounds/northern-cardinal.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Scott Crabtree",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1151504"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Male_northern_cardinal_in_Central_Park_%2852612%29.jpg/960px-Male_northern_cardinal_in_Central_Park_%2852612%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Northern_cardinal"
+    }
+  },
+  {
+    "name": "Bald Eagle",
+    "sciName": "Haliaeetus leucocephalus",
+    "family": "Accipitridae",
+    "region": "North America",
+    "blurb": "White-hooded raptor of rivers and coasts. Surprisingly thin in voice.",
+    "sound": {
+      "url": "/sounds/bald-eagle.mp3",
+      "type": "song",
+      "quality": "B",
+      "recordist": "Greg Irving",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1060048"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/960px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Bald_eagle"
+    }
+  },
+  {
+    "name": "American Robin",
+    "sciName": "Turdus migratorius",
+    "family": "Turdidae",
+    "region": "North America",
+    "blurb": "Orange-breasted thrush whose dawn song opens the American spring.",
+    "sound": {
+      "url": "/sounds/american-robin.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Greg Irving",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1138978"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/American_robin_%2871307%29.jpg/960px-American_robin_%2871307%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/American_robin"
+    }
+  },
+  {
+    "name": "Ruby-throated Hummingbird",
+    "sciName": "Archilochus colubris",
+    "family": "Trochilidae",
+    "region": "North America",
+    "blurb": "Three grams of green light. Wings hum at fifty beats a second.",
+    "sound": {
+      "url": "/sounds/ruby-throated-hummingbird.mp3",
+      "type": "call",
+      "quality": "A",
+      "recordist": "Albert Lastukhin",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/1101680"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Archilochus_colubris_-flying_-male-8.jpg/960px-Archilochus_colubris_-flying_-male-8.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ruby-throated_hummingbird"
+    }
+  },
+  {
+    "name": "Scarlet Macaw",
+    "sciName": "Ara macao",
+    "family": "Psittacidae",
+    "region": "Central & South America",
+    "blurb": "Red, yellow and blue. A loud, sociable parrot of rainforest canopies.",
+    "sound": {
+      "url": "/sounds/scarlet-macaw.mp3",
+      "type": "flight call, song",
+      "quality": "A",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/830638"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg/960px-Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Scarlet_macaw"
+    }
+  },
+  {
+    "name": "Resplendent Quetzal",
+    "sciName": "Pharomachrus mocinno",
+    "family": "Trogonidae",
+    "region": "Central America",
+    "blurb": "Emerald cloud-forest bird with a metre-long iridescent tail.",
+    "sound": {
+      "url": "/sounds/resplendent-quetzal.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Manuel Grosselet",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/914118"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg/960px-Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Resplendent_quetzal"
+    }
+  },
+  {
+    "name": "Andean Condor",
+    "sciName": "Vultur gryphus",
+    "family": "Cathartidae",
+    "region": "South America",
+    "blurb": "Largest soaring bird of the Andes. Three-metre wings, almost silent flight.",
+    "sound": {
+      "url": "/sounds/andean-condor.mp3",
+      "type": "song, muttering",
+      "quality": "E",
+      "recordist": "Albert Lastukhin",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/473865"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AndeanCondorMale.jpg/960px-AndeanCondorMale.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Andean_condor"
+    }
+  },
+  {
+    "name": "Toco Toucan",
+    "sciName": "Ramphastos toco",
+    "family": "Ramphastidae",
+    "region": "South America",
+    "blurb": "Outsize orange bill, a low croaking call across the Cerrado.",
+    "sound": {
+      "url": "/sounds/toco-toucan.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Fabrício Grigolin",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1054733"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Toco_toucan"
+    }
+  },
+  {
+    "name": "Great Horned Owl",
+    "sciName": "Bubo virginianus",
+    "family": "Strigidae",
+    "region": "Americas",
+    "blurb": "Tufted predator of the night. Deep, four-note hoots across the dark.",
+    "sound": {
+      "url": "/sounds/great-horned-owl.mp3",
+      "type": "begging call, song",
+      "quality": "A",
+      "recordist": "Scott Olmstead",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1140509"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bubo_virginianus_06.jpg/960px-Bubo_virginianus_06.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Great_horned_owl"
+    }
+  },
+  {
+    "name": "Blue Jay",
+    "sciName": "Cyanocitta cristata",
+    "family": "Corvidae",
+    "region": "North America",
+    "blurb": "Crested, brilliantly blue. A mimic with a vocabulary of dozens.",
+    "sound": {
+      "url": "/sounds/blue-jay.mp3",
+      "type": "call, song, pumphandle",
+      "quality": "A",
+      "recordist": "Stanislas Wroza",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1014208"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blue_jay_in_PP_%2830960%29.jpg/960px-Blue_jay_in_PP_%2830960%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Blue_jay"
+    }
+  },
+  {
+    "name": "Lilac-breasted Roller",
+    "sciName": "Coracias caudatus",
+    "family": "Coraciidae",
+    "region": "Sub-Saharan Africa",
+    "blurb": "A bird of eight colours, perched alone on a savanna branch.",
+    "sound": {
+      "url": "/sounds/lilac-breasted-roller.mp3",
+      "type": "call, song",
+      "quality": "A",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/461715"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/143_Lilac-breasted_roller_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/960px-143_Lilac-breasted_roller_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lilac-breasted_roller"
+    }
+  },
+  {
+    "name": "African Fish Eagle",
+    "sciName": "Haliaeetus vocifer",
+    "family": "Accipitridae",
+    "region": "Sub-Saharan Africa",
+    "blurb": "The yelping cry over every African lake. White hood, chestnut belly.",
+    "sound": {
+      "url": "/sounds/african-fish-eagle.mp3",
+      "type": "duet, song",
+      "quality": "A",
+      "recordist": "Marc Anderson",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/890670"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg/960px-African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/African_fish_eagle"
+    }
+  },
+  {
+    "name": "Secretarybird",
+    "sciName": "Sagittarius serpentarius",
+    "family": "Sagittariidae",
+    "region": "Sub-Saharan Africa",
+    "blurb": "Long-legged raptor that stalks the grass and stamps snakes to death.",
+    "sound": {
+      "url": "/sounds/secretarybird.mp3",
+      "type": "begging call, call, hatchling or nestling",
+      "quality": "B",
+      "recordist": "Dawie de Swardt",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/518394"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Secretary_bird_Mara_for_WC.jpg/960px-Secretary_bird_Mara_for_WC.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Secretarybird"
+    }
+  },
+  {
+    "name": "Grey Crowned Crane",
+    "sciName": "Balearica regulorum",
+    "family": "Gruidae",
+    "region": "East & Southern Africa",
+    "blurb": "Wreath of gold feathers on a slate-grey crown. Dances in tall grass.",
+    "sound": {
+      "url": "/sounds/grey-crowned-crane.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "isaac kilusu",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/982990"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29.jpg/960px-Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Grey_crowned_crane"
+    }
+  },
+  {
+    "name": "Hamerkop",
+    "sciName": "Scopus umbretta",
+    "family": "Scopidae",
+    "region": "Sub-Saharan Africa",
+    "blurb": "Hammer-shaped head, vast domed nests, a bird wrapped in folklore.",
+    "sound": {
+      "url": "/sounds/hamerkop.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "GABRIEL LEITE",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/810779"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamerkop_%28Scopus_umbretta_umbretta%29_2.jpg/960px-Hamerkop_%28Scopus_umbretta_umbretta%29_2.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Hamerkop"
+    }
+  },
+  {
+    "name": "Hadada Ibis",
+    "sciName": "Bostrychia hagedash",
+    "family": "Threskiornithidae",
+    "region": "Sub-Saharan Africa",
+    "blurb": "Bronze-winged ibis whose laughing call wakes African suburbs at dawn.",
+    "sound": {
+      "url": "/sounds/hadada-ibis.mp3",
+      "type": "song",
+      "quality": "B",
+      "recordist": "Jonathan Onongo",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1105386"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ibis_hadada_%28Bostrychia_hagedash%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_23.jpg/960px-Ibis_hadada_%28Bostrychia_hagedash%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_23.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Hadada_ibis"
+    }
+  },
+  {
+    "name": "Southern Ground Hornbill",
+    "sciName": "Bucorvus leadbeateri",
+    "family": "Bucorvidae",
+    "region": "Southern Africa",
+    "blurb": "Turkey-sized, blue-black, with a slow, booming dawn chorus.",
+    "sound": {
+      "url": "/sounds/southern-ground-hornbill.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Marc Anderson",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/834699"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Southern_Ground_Hornbill_%28Bucorvus_leadbeateri%29_male_%2812714625605%29%2C_crop.jpg/960px-Southern_Ground_Hornbill_%28Bucorvus_leadbeateri%29_male_%2812714625605%29%2C_crop.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Southern_ground_hornbill"
+    }
+  },
+  {
+    "name": "Greater Flamingo",
+    "sciName": "Phoenicopterus roseus",
+    "family": "Phoenicopteridae",
+    "region": "Africa, S Europe, Asia",
+    "blurb": "Pink and white in great flocks. Filter-feeds with its head upside down.",
+    "sound": {
+      "url": "/sounds/greater-flamingo.mp3",
+      "type": "song",
+      "quality": "B",
+      "recordist": "Nelson Conceição",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/551531"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg/960px-010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Greater_flamingo"
+    }
+  },
+  {
+    "name": "Red-crowned Crane",
+    "sciName": "Grus japonensis",
+    "family": "Gruidae",
+    "region": "East Asia",
+    "blurb": "Snow-white crane with a crimson crown. Symbol of long life in Japan.",
+    "sound": {
+      "url": "/sounds/red-crowned-crane.mp3",
+      "type": "duet, song",
+      "quality": "A",
+      "recordist": "Ding Li Yong",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/1141310"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grus_japonensis_-Hokkaido%2C_Japan_-several-8_%281%29.jpg/960px-Grus_japonensis_-Hokkaido%2C_Japan_-several-8_%281%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Red-crowned_crane"
+    }
+  },
+  {
+    "name": "Mandarin Duck",
+    "sciName": "Aix galericulata",
+    "family": "Anatidae",
+    "region": "East Asia",
+    "blurb": "Painted ducks of woodland pools. The drake almost too ornate to be real.",
+    "sound": {
+      "url": "/sounds/mandarin-duck.mp3",
+      "type": "call, duet, song",
+      "quality": "A",
+      "recordist": "Lars Lachmann",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/721862"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pair_of_mandarin_ducks.jpg/960px-Pair_of_mandarin_ducks.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mandarin_duck"
+    }
+  },
+  {
+    "name": "Philippine Eagle",
+    "sciName": "Pithecophaga jefferyi",
+    "family": "Accipitridae",
+    "region": "Philippines",
+    "blurb": "Crested forest eagle, one of the largest and rarest raptors on earth.",
+    "sound": {
+      "url": "/sounds/philippine-eagle.mp3",
+      "type": "begging call",
+      "quality": "A",
+      "recordist": "Julie F. Barcelona and Pieter B. Pelser",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/379328"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pamarayeg_IIIx2_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Philippine_eagle",
+      "position": "center 20%"
+    }
+  },
+  {
+    "name": "Bali Myna",
+    "sciName": "Leucopsar rothschildi",
+    "family": "Sturnidae",
+    "region": "Bali",
+    "blurb": "Snow-white starling with sapphire eye-patches. Critically endangered.",
+    "sound": {
+      "url": null,
+      "type": "song",
+      "quality": "A",
+      "recordist": "Frank Lambert",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/413641"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bali_Myna_0A2A9443.jpg/960px-Bali_Myna_0A2A9443.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Bali_myna"
+    }
+  },
+  {
+    "name": "Greater Bird-of-paradise",
+    "sciName": "Paradisaea apoda",
+    "family": "Paradisaeidae",
+    "region": "New Guinea",
+    "blurb": "Lemon and chestnut, with cascading flank plumes used in courtship.",
+    "sound": {
+      "url": "/sounds/greater-bird-of-paradise.mp3",
+      "type": "song, song at lek",
+      "quality": "A",
+      "recordist": "John V. Moore",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/279297"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Paradisaea_apoda_-Bali_Bird_Park-5.jpg/960px-Paradisaea_apoda_-Bali_Bird_Park-5.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Greater_bird-of-paradise",
+      "position": "80% 50%"
+    }
+  },
+  {
+    "name": "Laughing Kookaburra",
+    "sciName": "Dacelo novaeguineae",
+    "family": "Alcedinidae",
+    "region": "Australia",
+    "blurb": "Giant kingfisher whose maniacal laugh is the sound of the bush.",
+    "sound": {
+      "url": "/sounds/laughing-kookaburra.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Marc Anderson",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/1086676"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Laughing_Kookaburra_1.jpg/960px-Laughing_Kookaburra_1.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Laughing_kookaburra"
+    }
+  },
+  {
+    "name": "Superb Lyrebird",
+    "sciName": "Menura novaehollandiae",
+    "family": "Menuridae",
+    "region": "Australia",
+    "blurb": "Mimics every sound in its forest: other birds, chainsaws, camera shutters.",
+    "sound": {
+      "url": "/sounds/superb-lyrebird.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Romuald Mikusek",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1103947"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Superb_lyrbird_in_scrub.jpg/960px-Superb_lyrbird_in_scrub.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Superb_lyrebird"
+    }
+  },
+  {
+    "name": "Rainbow Lorikeet",
+    "sciName": "Trichoglossus moluccanus",
+    "family": "Psittaculidae",
+    "region": "Australia",
+    "blurb": "A small parrot painted in every colour. Travels in shrieking flocks.",
+    "sound": {
+      "url": null,
+      "type": "call, flight call, song",
+      "quality": "A",
+      "recordist": "James Ray",
+      "license": "CC BY-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/509295"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rainbow_lorikeet_%28Trichoglossus_moluccanus_moluccanus%29_Sydney.jpg/960px-Rainbow_lorikeet_%28Trichoglossus_moluccanus_moluccanus%29_Sydney.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Rainbow_lorikeet"
+    }
+  },
+  {
+    "name": "Kea",
+    "sciName": "Nestor notabilis",
+    "family": "Strigopidae",
+    "region": "New Zealand",
+    "blurb": "Alpine parrot of the Southern Alps. Endlessly curious, often mischievous.",
+    "sound": {
+      "url": "/sounds/kea.mp3",
+      "type": "call",
+      "quality": "A",
+      "recordist": "Meena Haribal",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/961343"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nestor_notabilis_-Fiordland%2C_New_Zealand-8b.jpg/960px-Nestor_notabilis_-Fiordland%2C_New_Zealand-8b.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Kea",
+      "position": "70% 50%"
+    }
+  },
+  {
+    "name": "Tūī",
+    "sciName": "Prosthemadera novaeseelandiae",
+    "family": "Meliphagidae",
+    "region": "New Zealand",
+    "blurb": "Iridescent black with a white throat tuft. A song of bells, clicks and whistles.",
+    "sound": {
+      "url": "/sounds/t.mp3",
+      "type": "call, song, subsong",
+      "quality": "A",
+      "recordist": "Ken George",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1105557"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tui_%28Prosthemadera_novaeseelandiae%29_Tiritiri_Matangi.jpg/960px-Tui_%28Prosthemadera_novaeseelandiae%29_Tiritiri_Matangi.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/T%C5%AB%C4%AB"
+    }
+  },
+  {
+    "name": "Emu",
+    "sciName": "Dromaius novaehollandiae",
+    "family": "Dromaiidae",
+    "region": "Australia",
+    "blurb": "Flightless and tall. Communicates in low drum-like booms.",
+    "sound": {
+      "url": "/sounds/emu.mp3",
+      "type": "song",
+      "quality": "B",
+      "recordist": "Marc Anderson",
+      "license": "CC BY-NC-ND 4.0",
+      "sourcePage": "https://xeno-canto.org/575654"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/960px-Emu_1_-_Tidbinbilla.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Emu"
+    }
+  },
+  {
+    "name": "Snowy Owl",
+    "sciName": "Bubo scandiacus",
+    "family": "Strigidae",
+    "region": "Arctic",
+    "blurb": "White owl of the tundra. Yellow eyes against snow, silent in flight.",
+    "sound": {
+      "url": "/sounds/snowy-owl.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Tero Linjama",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/343145"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bubo_scandiacus_%28Linnaeus%2C_1758%29_Male.jpg/960px-Bubo_scandiacus_%28Linnaeus%2C_1758%29_Male.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Snowy_owl"
+    }
+  },
+  {
+    "name": "Emperor Penguin",
+    "sciName": "Aptenodytes forsteri",
+    "family": "Spheniscidae",
+    "region": "Antarctica",
+    "blurb": "Largest penguin. Breeds on sea ice in the dark of the Antarctic winter.",
+    "sound": {
+      "url": "/sounds/emperor-penguin.mp3",
+      "type": "song",
+      "quality": "A",
+      "recordist": "Santiago Imberti",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/689246"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Emperor_penguin",
+      "position": "center 5%"
+    }
+  },
+  {
+    "name": "Atlantic Puffin",
+    "sciName": "Fratercula arctica",
+    "family": "Alcidae",
+    "region": "North Atlantic",
+    "blurb": "Sea parrot with a triangular orange bill. Nests in cliff burrows.",
+    "sound": {
+      "url": "/sounds/atlantic-puffin.mp3",
+      "type": "call, song, wing flapping",
+      "quality": "A",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/1052663"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Puffin_%28Fratercula_arctica%29.jpg/960px-Puffin_%28Fratercula_arctica%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Atlantic_puffin"
+    }
+  },
+  {
+    "name": "Wandering Albatross",
+    "sciName": "Diomedea exulans",
+    "family": "Diomedeidae",
+    "region": "Southern Ocean",
+    "blurb": "Three-and-a-half metre wingspan. Glides for days without a wingbeat.",
+    "sound": {
+      "url": "/sounds/wandering-albatross.mp3",
+      "type": "call",
+      "quality": "A",
+      "recordist": "Barry Edmonston",
+      "license": "CC BY-NC-SA 4.0",
+      "sourcePage": "https://xeno-canto.org/796375"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Diomedea_exulans_-_SE_Tasmania.jpg/960px-Diomedea_exulans_-_SE_Tasmania.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Snowy_albatross"
+    }
+  }
+]
