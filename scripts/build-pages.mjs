@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
 const BIRDS_PATH = path.join(ROOT, 'birds.json');
-const SITE_URL = 'https://birds-site-xi.vercel.app';
+const SITE_URL = 'https://birdssong.vercel.app';
 
 function slugify(name) {
   return name.normalize('NFD').replace(/[\u0300-\u036f]/g, '')

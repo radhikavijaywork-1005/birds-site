@@ -2,7 +2,7 @@
 
 A small, static field guide to the birds of the world: name, portrait, and voice for 51 curated species — paced like a field guide left open on a windowsill, not a feed.
 
-**Live:** https://birds-site-xi.vercel.app
+**Live:** https://birdssong.vercel.app
 
 ## What it does
 
