@@ -866,7 +866,7 @@
     "region": "New Zealand",
     "blurb": "Iridescent black with a white throat tuft. A song of bells, clicks and whistles.",
     "sound": {
-      "url": "/sounds/t.mp3",
+      "url": "/sounds/tui.mp3",
       "type": "call, song, subsong",
       "quality": "A",
       "recordist": "Ken George",

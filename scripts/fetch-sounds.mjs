@@ -61,7 +61,8 @@ function licenseLabel(lic) {
 }
 
 function slugify(name) {
-  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  return name.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 }
 
 // Read straight from the remote URL and stop once CLIP_SECONDS of trimmed

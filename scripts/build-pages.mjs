@@ -13,7 +13,8 @@ const BIRDS_PATH = path.join(ROOT, 'birds.json');
 const SITE_URL = 'https://birds-site-xi.vercel.app';
 
 function slugify(name) {
-  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  return name.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 }
 
 function escapeHtml(s) {
