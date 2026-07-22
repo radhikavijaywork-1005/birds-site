@@ -7,6 +7,8 @@
 
   let birds = [];
   let currentBtn = null;
+  let hoverStarted = false;
+  const HOVER_DELAY = 1000;
 
   // ---- data ----------
   fetch('birds.json')
@@ -51,6 +53,21 @@
         playBtn.addEventListener('click', e => {
           e.stopPropagation();
           togglePlay(playBtn, bird);
+        });
+
+        // hover preview: linger on a card for a beat and its voice starts
+        // on its own; leave before it starts (or after) and it goes quiet
+        node.addEventListener('mouseenter', () => {
+          node._hoverTimer = setTimeout(() => playBird(playBtn, bird, { hover: true }), HOVER_DELAY);
+        });
+        node.addEventListener('mouseleave', () => {
+          clearTimeout(node._hoverTimer);
+          if (hoverStarted && currentBtn === playBtn) {
+            player.pause();
+            playBtn.classList.remove('playing');
+            currentBtn = null;
+            hoverStarted = false;
+          }
         });
       } else {
         playBtn.disabled = true;
@@ -118,13 +135,21 @@
       player.pause();
       btn.classList.remove('playing');
       currentBtn = null;
+      hoverStarted = false;
       return;
     }
+    await playBird(btn, bird, { hover: false });
+  }
+
+  async function playBird(btn, bird, { hover = false } = {}) {
+    if (currentBtn === btn && !player.paused) return; // already playing this one
+
     // stop previous
     if (currentBtn && currentBtn !== btn) {
       currentBtn.classList.remove('playing');
     }
     currentBtn = btn;
+    hoverStarted = hover;
 
     if (player.src !== bird.sound.url) {
       btn.classList.add('loading');
@@ -143,6 +168,7 @@
   player.addEventListener('ended', () => {
     if (currentBtn) currentBtn.classList.remove('playing');
     currentBtn = null;
+    hoverStarted = false;
   });
 
   // ---- search ----------
