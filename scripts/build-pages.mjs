@@ -78,6 +78,9 @@ function page(bird, slug) {
   <meta property="og:url" content="${canonical}" />
   ${image ? `<meta property="og:image" content="${escapeHtml(image.url)}" />` : ''}
   <meta name="twitter:card" content="${image ? 'summary_large_image' : 'summary'}" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;1,9..144,300;1,9..144,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
